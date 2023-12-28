@@ -6,7 +6,7 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
 <ul>
-  <li>🎓 &nbsp; Senior computer science at <a href="http://www.aui.ma/en/">AUI</a></li>
+  <li>🎓 &nbsp; Senior computer science student at <a href="http://www.aui.ma/en/">AUI</a></li>
   <li>🔍 &nbsp; Interested in Distributed Systems, Kafka, Microservices, and their related technologies. </li>
 </ul>
 
